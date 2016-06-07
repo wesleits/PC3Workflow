@@ -1,0 +1,1 @@
+objID, detectID, ippObjID, ippDetectID, filterID, imageID, obsTime, xPos, yPos, xPosErr, yPosErr, instFlux, instFluxErr, psfWidMajor, psfWidMinor, psfTheta, psfLikelihood, psfCf, infoFlag, htmID, zoneID, assocDate, modNum, ra, dec, raErr, decErr, cx, cy, cz, peakFlux, calMag, calMagErr, calFlux, calFluxErr, calColor, calColorErr, sky, skyErr, sgSep, dataRelease

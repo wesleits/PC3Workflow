@@ -1,0 +1,1 @@
+frameID, surveyID, filterID, cameraID, telescopeID, analysisVer, p1Recip, p2Recip, p3Recip, nP2Images, astroScat, photoScat, nAstRef, nPhoRef, expStart, expTime, airmass, raBore, decBore
